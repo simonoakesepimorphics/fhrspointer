@@ -1,6 +1,6 @@
-#FHRS Pointy Thing
+# FHRS Pointy Thing
 
-###Run parameters
+### Run parameters
 
 Parameter   | Type       | Meaning | Default
 ------------|------------|---------|--------
